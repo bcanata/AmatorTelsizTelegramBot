@@ -1,5 +1,5 @@
 # AmatorTelsizTelegramBot
-Telegram kanalında amatör telsizcilik ile ilgili kaynaklara bağlantı yapan Telegram botu
+Telegram kanalında amatör telsizcilik ile ilgili kaynaklara bağlantı yapan, Cloudflare Workers üzerinde çalışan Telegram botu
 
 Kurulum yapmak için Telegram'dan @botfather'a mesaj atarak bir bot oluşturun.
 

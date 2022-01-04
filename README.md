@@ -12,11 +12,19 @@ handlemessage fonksiyonu altındaki "chat_id" değerine ise botu çalıştıraca
 KOMUTLAR
 
 !locator - locator arama
+
 !qrz - QRZ.com
+
 !qrzcq - qrzcq.com
+
 !aprs - aprs.fi
+
 !dxwatch - dxwatch.com
+
 !hamcall - hamcall.net
+
 !eham - eham.net
+
 !toplu - toplu çağrı işareti arama
+
 !liste - komut listesi
